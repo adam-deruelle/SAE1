@@ -10,15 +10,6 @@ Concevoir et tester un variateur de lumière sans contact permettant de faire va
 
 Le projet s’inscrit dans un scénario fictif : après un incendie dans l’entreprise "France LED", les schémas de la nouvelle version du variateur ont été perdus. En tant qu’étudiant à l’IUT GEII, nous avons été sollicités pour recréer et tester un prototype fonctionnel à partir des rares documents récupérés.
 
-## 🗂️ Documents liés
-
-- [Analyse de l’existant](./SAÉ%201%20-%20Var...1%20-%20Analyse%20de%20lexistant.pdf)
-- [Dossier théorique](./Dossier%20théorique.docx)
-- [CAO – Conception de la carte](./SAÉ%201%20-%20Var...2%20-%20CAO.pdf)
-- [Procédures de test](./Procédure%20de%20test%20-%20Var...sans%20contact.pdf)
-- [Contrôle visuel](./Procédure%20de%20test%20-%20Contrôle%20visuel.pdf)
-- [Compte rendu final](./Compte%20rendu%20Saé.pdf)
-
 ## 🧠 Analyse de l’existant
 
 À partir du boîtier d’un ancien variateur :
